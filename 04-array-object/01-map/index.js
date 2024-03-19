@@ -31,5 +31,3 @@ const importData = () => {
 };
 
 btn.addEventListener('click', importData);
-
-const data = products.data;
