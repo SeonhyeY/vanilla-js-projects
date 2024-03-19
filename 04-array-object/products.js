@@ -1,0 +1,31 @@
+const products = {
+  data: [
+    {
+      id: 1,
+      name: 'cup',
+      price: 19.99,
+    },
+    {
+      id: 2,
+      name: 'mouse',
+      price: 34.99,
+    },
+    {
+      id: 3,
+      name: 'monitor',
+      price: 219.99,
+    },
+    {
+      id: 4,
+      name: 'keyboard',
+      price: 149.3,
+    },
+    {
+      id: 5,
+      name: 'charger',
+      price: 123.99,
+    },
+  ],
+};
+
+export default products;
